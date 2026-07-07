@@ -56,3 +56,8 @@ src/
 
 - Java 21
 - Maven 3.9+
+
+## Author
+
+Elina Rostoka, with AI assistance.
+
